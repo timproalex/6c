@@ -6,13 +6,73 @@
 	font-size: 25px;
 }
 body{
-	background: url(../img/6.jpg);
-;
-		background-size: cover;background-size: contain
+	background: url(../img/k.jpg);
+
+		min-height: 100%;
+		background-size:cover ;
 }
 .z1{
 	font-size: 20px;
 }
 .z2{
 	font-size: 23px;
+}
+.x{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	opacity: 70%;
+}
+.x1{
+	color: pink;
+	font-size: 25px;
+	margin: 10px;
+	text-align: center;
+}
+.d1{
+	margin-top: 530px;
+}
+.x2{
+	color: blue;
+	font-size: 25px;
+	margin: 10px;
+	text-align: center;
+}
+.d2{
+	margin-top: 670px;}
+	.d3{
+	margin-top: 610px;
+}
+.q{
+	background: lightseagreen;
+}
+.x3{
+	color: white;
+	font-size: 25px;
+	margin: 10px;
+	text-align: center;
+	display: block;
+}
+ .w1 a {
+     display: block; /* Ссылка как блочный элемент */
+     text-align: center; /* Выравнивание по центру */
+     height: 100%; /* Высота на весь слой */
+     color: #666; /* Цвет ссылки */
+    }
+	
+.w1{
+	position: fixed;
+	right: 20px;
+	background: url(../img/u.png);
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	bottom: 50px;
+	border-radius: 50px;
+}
+.w2{
+	margin-top: 10px;
+}
+.w3{
+	bottom: 10px;
 }
