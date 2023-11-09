@@ -48,7 +48,7 @@ body{
 	margin-top: 610px;
 }
 .q{
-	background: lightseagreen;
+	background: url(../img/f.jpg);
 }
 .x3{
 	color: white;
@@ -89,4 +89,7 @@ p{
 h1{
 	color:white;
 	opacity: 70%;
+}
+a{
+	color: yellow;
 }
