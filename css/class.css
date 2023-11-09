@@ -84,12 +84,17 @@ body{
 	margin-top: 70px;
 }
 p{
-	color: yellow;
+	color: white;
 }
 h1{
 	color:white;
 	opacity: 70%;
 }
 a{
-	color: yellow;
+	color: white;
 }
+html, body{
+	font-family: 'Indie Flower', sans-serif;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Indie+Flower&display=swap');
