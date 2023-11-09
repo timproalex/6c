@@ -6,7 +6,7 @@
 	font-size: 25px;
 }
 body{
-	background: url(../img/k.jpg);
+	background: url(../img/f.jpg);
 
 		min-height: 100%;
 		background-size:cover ;
@@ -16,6 +16,7 @@ body{
 }
 .z2{
 	font-size: 23px;
+	text-align: center;
 }
 .x{
 	text-align: center;
@@ -75,4 +76,13 @@ body{
 }
 .w3{
 	bottom: 10px;
+}
+.re{
+	margin-top: 70px;
+}
+.qw{
+	background: url(../img/k.jpg);
+
+		min-height: 100%;
+		background-size:cover ;
 }
