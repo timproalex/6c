@@ -93,8 +93,8 @@ h1{
 a{
 	color: white;
 }
-html, body{
-	font-family: 'Sverige Script Decorated Demo', sans-serif;
-
+ @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+ body{
+	
+font-family: 'Cormorant Garamond', serif;
 }
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Indie+Flower&display=swap');
